@@ -1,0 +1,36 @@
+#message {
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
+  .success {
+    background-color: rgb(81, 197, 106);
+    color: white;
+    padding: 10px;
+  }
+  
+  .error {
+    background-color: #f22237;
+    color: white;
+    padding: 10px;
+  }
+  
+  
+  .submit-container {
+    margin: 0 auto; 
+    width: fit-content; 
+  }
+  
+  .submit-container input[type="email"] {
+    width: 250px; 
+  }
+
+  #submit-button {
+    background-color: rgba(118, 206, 137, 1);
+    width: 90px;
+    height: 22px;
+    color: rgba(256, 256, 256, 1);
+    border: none;
+    
+}
+  
